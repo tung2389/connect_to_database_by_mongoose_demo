@@ -1,7 +1,6 @@
 import mongoose from "mongoose";
 import dataModel from "../model/data";
 
-//var url = "mongodb+srv://tung2389:tung24861379.@cluster0-mibi3.mongodb.net/test?retryWrites=true";
 require('dotenv').config()
 const MONGO_URL = process.env.MONGO_URL;
 
