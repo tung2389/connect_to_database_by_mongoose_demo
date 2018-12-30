@@ -1,6 +1,6 @@
 - This is a demo of using mongoose in express app to connect to mongodb. Source code from: https://github.com/dungwinux
 
-- DEMO of the app: https://connect-to-mongodb-demo.herokuapp.com/
+- DEMO of the app: https://lkt-back-end.herokuapp.com/first_app
 
 IMPORTANT NOTE: If you want to deploy this to heroku, remember these things or it will waste you a lot of time
 
